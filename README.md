@@ -27,10 +27,6 @@ This website serves as a platform to offer tech lessons and resources for women.
 - [x] **Description:** A list of available tech courses designed specifically for women.
 - [x] **Features:** Course listings, descriptions, and enrollment options.
 
-### Team Page 
-- [x] **Description:** Information about the team behind HeyTech.
-- [x] **Features:** Team member bios, photos, and roles.
-
 ### Activities Page 
 - [x] **Description:** Testimonials from women who have benefited from the program.
 - [x] **Features:** User testimonials, ratings, and feedback.
